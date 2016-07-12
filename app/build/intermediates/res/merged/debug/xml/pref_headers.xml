@@ -1,0 +1,23 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="drexelteam41_ci102_064.musictransitionapp.SettingsActivity$GeneralPreferenceFragment"
+        android:title="@string/pref_header_general" />
+
+    <header
+        android:fragment="drexelteam41_ci102_064.musictransitionapp.SettingsActivity$NotificationPreferenceFragment"
+        android:title="@string/pref_header_notifications" />
+
+    <header
+        android:fragment="drexelteam41_ci102_064.musictransitionapp.SettingsActivity$DataSyncPreferenceFragment"
+        android:title="@string/pref_header_data_sync" />
+
+    <header
+        android:summary="@string/settings_description" />
+
+    <header
+        android:summary="@string/settings_description2" />
+
+</preference-headers>
