@@ -5,15 +5,15 @@ The end-result of a two-term Freshman Design course project between several clas
 
 Team Members of This Project:
 
-Team Leader: A.J. Persinger (during Term 1 of project only - left during first week of second term) ...
+Team Leader: A.J. Persinger (during Term 1 of project only - left during first week of second term)
 
-Team Leader: Jerry DiBello (Team Leader during Term 2 of project only - was Computer Vision Developer during Term 1 of project) ... 
+Team Leader: Jerry DiBello (Team Leader during Term 2 of project only - was Computer Vision Developer during Term 1 of project) 
 
-Application Developer: Austin Hull ... 
+Application Developer: Austin Hull 
 
-Music Decomposition Developer: Omair Bhore ...
+Music Decomposition Developer: Omair Bhore
 
-Music Technician: Krrish Chowdhry ... 
+Music Technician: Krrish Chowdhry 
 
 
 
